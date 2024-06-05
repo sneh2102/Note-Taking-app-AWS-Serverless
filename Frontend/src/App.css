@@ -74,7 +74,7 @@ input, textarea {
 
 button {
   padding: 10px;
-  background-color: #007bff;
+  background-color: #bd7cdb;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -122,7 +122,7 @@ button:hover {
 }
 
 .delete-button {
-  background-color: #dc3545;
+  background-color: #e65a68;
 }
 
 .edit-button:hover, .save-button:hover {
@@ -130,7 +130,7 @@ button:hover {
 }
 
 .delete-button:hover {
-  background-color: #c82333;
+  background-color: #e65a68;
 }
 
 .note-content {
